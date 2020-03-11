@@ -1,22 +1,43 @@
 <resources>
     <string name="app_name">ListApp</string>
 
-    <string-array name="items">
-        <item>peach</item>
-        <item>tomato</item>
-        <item>squash</item>
+    <string-array name="flagName">
+        <item>Japan</item>
+        <item>U.S.A</item>
+        <item>U.K</item>
+        <item>S.Korea</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Finland</item>
+        <item>China</item>
+        <item>Thailand</item>
+        <item>Malaysia</item>
     </string-array>
 
     <string-array name="prices">
         <item>$0.89</item>
         <item>$1.21</item>
         <item>$0.99</item>
+        <item>$0.99</item>
+        <item>$0.99</item>
+        <item>$0.99</item>
+        <item>$0.99</item>
+        <item>$0.99</item>
+        <item>$0.99</item>
     </string-array>
 
     <string-array name="descriptions">
-        <item>Fresh peaches from Georgia</item>
-        <item>Fresh salad tomatoes from Ohio</item>
-        <item>Fresh yellow squash form California</item>
+        <item>Ohio</item>
+        <item>California</item>
+        <item>Colorado</item>
+        <item>Colorado</item>
+        <item>Colorado</item>
+        <item>Colorado</item>
+        <item>Colorado</item>
+        <item>Colorado</item>
+        <item>Colorado</item>
+        <item>Colorado</item>
+
     </string-array>
 
 </resources>
